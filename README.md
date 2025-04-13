@@ -1,2 +1,2 @@
 # chatbot
-a student friendly chatbot
+This bot is trained by ai.
